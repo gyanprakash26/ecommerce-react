@@ -1,0 +1,29 @@
+.Product-detail{
+    padding: 1%;
+    margin: auto;
+    height: 500px;
+    width: 90%;
+    background-color: rgb(238, 238, 255);
+}
+.dproduct{
+    margin: auto;
+        height: 400px;  
+      border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.pimg{
+    margin: 10px;
+    width: 300px;
+    height: 250px;
+    background-color: antiquewhite;
+}
+.summary{ 
+        margin: 10px;
+    width: 500px;
+    height: 250px;
+     background-color: antiquewhite;
+}
+.cc{
+    margin: auto;
+    margin: 50px;
+}
